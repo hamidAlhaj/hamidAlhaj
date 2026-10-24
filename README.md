@@ -5,7 +5,7 @@
 
 📍 Salamiyah, Syria
 
-Building practical web applications with React, TypeScript, and Node.js.  
+Building practical web applications with MERN · TypeScript · Next.js · NestJS   
 Interested in clean backend architecture, intuitive interfaces, and API security.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/hamid-alhaj-63437b410/)
