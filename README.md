@@ -33,11 +33,12 @@ I enjoy understanding how an application works from the user interface to the se
 
 ### Frontend
 
-[![Frontend skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite)](https://github.com/hamidAlhaj?tab=repositories)
+[![Frontend skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite)](https://github.com/hamidAlhaj?tab=repositories)
 
 ### Backend & Databases
 
-[![Backend and database skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql)](https://github.com/hamidAlhaj?tab=repositories)
+[![Backend and database skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres)](https://github.com/hamidAlhaj?tab=repositories)
+
 
 ### Other Languages & Tools
 
